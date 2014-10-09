@@ -1,0 +1,18 @@
+---
+layout: default
+description: "Een eenvoudige en beknopte handleiding voor de PHP best practices, geaccepteerde coding standards en links naar gezeghebbende tutorials op het web"
+---
+
+{% capture welcome_content %}{% include welcome.md %}{% endcapture %}
+{{ welcome_content|markdownify }}
+
+{% capture backtotop %}[Back to Top](#top){:.top}{% endcapture %}
+{% for post in site.posts reversed %}
+    {% if post.isChild != true and loop.first != true %}
+    {{ backtotop|markdownify }}
+    {% endif %}
+    <div id="{{ post.anchor }}">
+    {{ post.content }}
+    </div>
+{% endfor %}
+{{ backtotop|markdownify }}
