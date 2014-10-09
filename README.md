@@ -66,16 +66,20 @@ Is je vertaling klaar? Open dan een issue op de Issue Tracker en laat ons het we
 
 ## Waarom?
 
-There's been a lot of discussion lately about how the PHP community lacks sufficient, credible information for programmers new to PHP. This repository aims to solve this problem.
+Er is veel discussie omtrent de PHP gemeenschap en het ontbreken van voldoende, geloofwaardige informatie voor nieuwe PHP programmeurs. Deze repository heeft als doel om dit probleem op te lossen.
 
-## Who
+## Wie?
 
-My name is [Josh Lockhart](http://twitter.com/codeguy). I'm the author of the [Slim Framework](http://www.slimframework.com/), and I work for [New Media Campaigns](http://www.newmediacampaigns.com/).
+Mijn naam is [Josh Lockhart](http://twitter.com/codeguy). Ik ben de auteur van het [Slim Framework](http://www.slimframework.com/), en ik werk voor [New Media Campaigns](http://www.newmediacampaigns.com/).
 
-### Collaborators
+### Medewerkers
 
 * [Kris Jordan](http://krisjordan.com/)
 * [Phil Sturgeon](http://philsturgeon.co.uk/)
+
+### Vertaling
+
+* [Jack Kwakman] (nl.linkedin.com/in/jackkwakman)
 
 ## License
 
