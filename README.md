@@ -79,7 +79,7 @@ Mijn naam is [Josh Lockhart](http://twitter.com/codeguy). Ik ben de auteur van h
 
 ### Vertaling
 
-* [Jack Kwakman] (nl.linkedin.com/in/jackkwakman)
+* [Jack Kwakman] (http://nl.linkedin.com/in/jackkwakman)
 
 ## License
 
