@@ -5,14 +5,14 @@
 Dit is de GitHub Pages repository voor het _PHP: The Right Way_ project.
 
 * Deze website is een Jekyll project.
-* Iedere sectie en subsectie bestaat uit een Mardown bestand in `_posts/`.
+* Iedere sectie en subsectie bestaat uit een Markdown bestand in `_posts/`.
 * Subsecties bevatten `isChild: true` in de koptekst van het document.
 * Navigatie en paginastructuur worden automatisch gegenereerd.
 
 ## Zeg het voort!
 
 _PHP: The Right Way_ stelt banners beschikbaar die je kunt gebruiken op je website. Toon je steun aan het project en laat
-nieuwe PHP programmeurs weten waar ze de juist informatie kunnen vinden!
+nieuwe PHP programmeurs weten waar ze de juiste informatie kunnen vinden!
 
 [Bekijk banners](http://www.phptherightway.com/banners.html)
 
