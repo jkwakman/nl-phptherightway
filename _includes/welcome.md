@@ -1,10 +1,10 @@
-# Welcome
+# Welkom
 
-There's a lot of outdated information on the Web that leads new PHP users astray,
-propagating bad practices and insecure code. _PHP: The Right Way_ is an easy-to-read,
-quick reference for PHP popular coding standards, links to authoritative tutorials
-around the Web and what the contributors consider to be best practices at the present
-time.
+Er is veel verouderde informatie op het web beschikbaar waardoor nieuwe PHP gebruikers
+op een dwaalspoor belanden. Dit leidt tot het propageren van slechte praktijken en onveilige code.
+
+_PHP: The Right Way_ is een leesbare en beknopte handleiding voor de PHP best
+practices, geaccepteerde coding standards en links naar gezeghebbende tutorials op het web.
 
 _There is no canonical way to use PHP_. This website aims to introduce new PHP
 developers to some topics which they may not discover until it is too late, and aims
@@ -16,30 +16,28 @@ in approach and use-case.
 This is a living document and will continue to be updated with more helpful information
 and examples as they become available.
 
-## Translations
+## Vertalingen
 
-_PHP: The Right Way_ is (or soon will be) translated into many different languages:
+_PHP: The Right Way_ is (of zal binnenkort) worden vertaald in de volgende talen:
 
-* [English](http://www.phptherightway.com)
-* [Chinese (Simplified)](http://wulijun.github.com/php-the-right-way)
-* [French](http://eilgin.github.io/php-the-right-way/)
-* [Japanese](http://ja.phptherightway.com)
-* [Korean](http://wafe.github.io/php-the-right-way/)
-* [Indonesian](http://id.phptherightway.com/)
-* [Italian](http://it.phptherightway.com/)
-* [Polish](http://pl.phptherightway.com/)
-* [Portuguese](http://br.phptherightway.com/)
-* [Romanian](https://bgui.github.io/php-the-right-way/)
-* [Russian](http://getjump.github.io/ru-php-the-right-way)
-* [Spanish](http://phpdevenezuela.github.io/php-the-right-way/)
-* [Ukrainian](http://iflista.github.com/php-the-right-way/)
-* [Bulgarian](http://bg.phptherightway.com/)
-* [German](http://rwetzlmayr.github.io/php-the-right-way/)
-* [Thai](https://apzentral.github.io/php-the-right-way/)
-* [Turkish](http://hkulekci.github.io/php-the-right-way/)
-* [Slovenian](http://sl.phptherightway.com)
+* [Engels](http://www.phptherightway.com)
+* [Catalaans] (http://ca.phptherightway.com)
+* [Chinees](http://wulijun.github.com/php-the-right-way)
+* [Japans] (http://ja.phptherightway.com)
+* [Koreaans] (http://wafe.github.io/php-the-right-way)
+* [Italiaans] (http://it.phptherightway.com)
+* [Pools](http://pl.phptherightway.com)
+* [Portugees](http://br.phptherightway.com)
+* [Russisch] (http://getjump.github.io/ru-php-the-right-way)
+* [Spaans] (http://es.phptherightway.com)
+* [Oekraïens](http://iflista.github.com/php-the-right-way)
+* [Bulgaars](http://bg.phptherightway.com)
+* [Duits] (http://rwetzlmayr.github.io/php-the-right-way)
+* [Turks](http://hkulekci.github.io/php-the-right-way/)
+* [Sloveens](http://sl.phptherightway.com)
+* [Nederlands] (http://nl.phptherightway.com)
 
-## How to Contribute
+## Hoe kan ik bijdragen?
 
 Help make this website the best resource for new PHP programmers! [Contribute on GitHub][1]
 
