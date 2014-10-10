@@ -12,7 +12,7 @@ applicatie live gaat. Het is daarnaast erg lastig om de verschillende ontwikkelo
 Indien je werkt onder Windows en je je software publiceerd onder Linux (of een ander niet-Windows OS) of werkt in een team
 zou je moeten overwegen om een virtuele machine te gebruiken. Dit lijkt complex maar middels [Vagrant][vagrant] kun je
 eenvoudig een virtuele machine opzetten. Deze 'base boxes' kun je handmatig aanmaken of je kunt gebruik maken van "inricht"
-software zoals Puppet][puppet] of [Chef][chef] om het voor je te doen. Het inrichten van een base box is een handige
+software zoals [Puppet][puppet] of [Chef][chef] om het voor je te doen. Het inrichten van een base box is een handige
 manier om te garanderen dat meerdere machines op exact dezelfde manier zijn opgezet en dit zorgt voor minder onderhoud.
 Je kunt een base box ook heel gemakkelijk verwijderen en opnieuw aanmaken waardoor het eenvoudig is om een nieuwe installatie
 aan te maken.
