@@ -3,23 +3,23 @@ isChild: true
 anchor: command_line_interface
 ---
 
-## Command Line Interface {#command_line_interface_title}
+## Command-line-interface {#command_line_interface_title}
 
-PHP was created to write web applications, but is also useful for scripting command line interface (CLI) programs. Command line PHP programs can help automate common tasks like testing, deployment, and application administrivia.
+PHP is gemaakt om webapplicaties mee te schrijven maar is ook handig bij het schrijven van command-line-interface (CLI) programma's. CLI PHP programma's kunnen je helpen bij het automatiseren van taken zoals testen, deployment en applicatiebeheer.
 
-CLI PHP programs are powerful because you can use your app's code directly without having to create and secure a web GUI for it. Just be sure not to put your CLI PHP scripts in your public web root!
+CLI PHP programma's zijn erg krachtig omdat je de code van de applicatie direct kan aanroepen zonder de noodzaak om een beveiligde webinterface te schrijven. Plaats echter nooit je CLI scripts in je publieke web root!
 
-Try running PHP from your command line:
+Probleer zelf maar eens om PHP uit te voeren vanaf de command-line:
 
 {% highlight bash %}
 > php -i
 {% endhighlight %}
 
-The `-i` option will print your PHP configuration just like the [`phpinfo`][phpinfo] function. 
+De `-i` optie toont je de PHP configuratie net zoals de [`phpinfo`][phpinfo] functie.
 
-The `-a` option provides an interactive shell, similar to ruby's IRB or python's interactive shell. There are a number of other useful [command line options][cli-options], too.
+De `-a` optie toont je een interactieve shell, soortgelijk als ruby's IRB of python's interactieve shell. Uiteraard zijn er nog meer andere handige [command-line opties][cli-options] beschikbaar.
 
-Let's write a simple "Hello, $name" CLI program. To try it out, create a file named `hello.php`, as below.
+Laten wij een simpel "Hello, $name" CLI programma schrijven. Om het programma uit te voeren dien je een bestand `hello.php` aan te maken zoals onderstaand.
 
 {% highlight php %}
 <?php
