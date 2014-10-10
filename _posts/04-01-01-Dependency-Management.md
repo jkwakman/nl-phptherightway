@@ -2,13 +2,14 @@
 anchor: dependency_management
 ---
 
-# Dependency Management {#dependency_management_title}
+# Afhankelijkheid management {#dependency_management_title}
 
-There are a ton of PHP libraries, frameworks, and components to choose from. Your project will likely use several of them — these are project dependencies. Until recently, PHP did not have a good way to manage these project dependencies. Even if you managed them manually, you still had to worry about autoloaders. No more.
+Er zijn ontelbaar veel PHP libraries, frameworks en componenten om tussen te kiezen. Je project zal waarschijnlijk een aantal gebruiken. Van deze projecten ben je dan ook afhankelijk. Tot voor kort had PHP geen goede manier om deze afhankelijkheid te beheren. Zelfs als je ze handmatig beheerd ben je nog afhankelijk van de autoloaders.
+Dat is vanaf nu dus verleden tijd.
 
-Currently there are two major package management systems for PHP - Composer and PEAR. Which one is right for you? The answer is both.
+Tegenwoordig zijn er twee grote pakket management systemen voor PHP, namelijk Composer en PEAR. Welke is het meest geschikt voor jou? Waarschijnlijk beide.
 
- * Use **Composer** when managing dependencies for a single project.
- * Use **PEAR** when managing dependencies for PHP as a whole on your system.
+ * Gebruik **Composer** indien je het dependencies voor één project wilt beheren.
+ * Gebruik **PEAR** indien je de alle dependencies op één centrale plaats wilt beheren.
 
-In general, Composer packages will be available only in the projects that you explicitly specify whereas a PEAR package would be available to all of your PHP projects. While PEAR might sound like the easier approach at first glance, there are advantages to using a project-by-project approach to your dependencies.
+Over het algemeen gebruik je Composer pakketten alleen voor dat specifieke project terwijl PEAR pakketten beschikbaar zijn voor alle PHP projecten. Alhoewel PEAR op het eerste gezicht wellicht eenvoudiger lijkt zijn er veel voordelen bij het beheren van je pakketten per project.
