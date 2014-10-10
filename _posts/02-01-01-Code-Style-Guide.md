@@ -30,7 +30,7 @@ Je kunt [PHP_CodeSniffer][phpcs] gebruiken om je code te valideren tegen één o
 maken van plugins voor je tekst editor zoals [Sublime Text 2][st-cs] om realtime feedback te krijgen.
 
 Gebruik Fabien Potencier zijn [PHP Coding Standards Fixer][phpcsfixer] om automatisch je code aan te passen zodat het conform de
-regels van deze standaarden is. Dit scheelt je veel handmatig corrigeren.
+regels van deze standaarden is. Dit scheelt je veel handmatige correcties.
 
 De Engelse taal heeft de voorkeur bij benaming van alle symbolen en infrastructuur van je code. Commentaar mag worden geschreven
 in elke taal die gemakkelijk te lezen is voor alle huidige en toekomstige partijen die werkzaamheden verrichten aan de code.
