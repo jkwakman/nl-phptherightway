@@ -6,15 +6,15 @@ op een dwaalspoor belanden. Dit leidt tot het propageren van slechte praktijken 
 _PHP: The Right Way_ is een leesbare en beknopte handleiding voor de PHP best
 practices, geaccepteerde coding standards en links naar gezeghebbende tutorials op het web.
 
-_There is no canonical way to use PHP_. This website aims to introduce new PHP
-developers to some topics which they may not discover until it is too late, and aims
-to give seasoned pros some fresh ideas on those topics they've been doing for years
-without ever reconsidering. This website will also not tell you which tools to use, but
-instead offer suggestions for multiple options, when possible explaining the differences
-in approach and use-case.
+_Er is geen uniforme manier om PHP te gebruiken_. Deze website heeft als doel om nieuwe PHP
+ontwikkelaars kennis te laten maken met inzichten die anders onbelicht zouden blijven. Daarnaast
+kunnen ervaren professionals frisse ideeën opdoen omtrent onderwerpen die jaren lang op dezelfde
+wijze worden benaderd. Deze website vertelt je niet welke tools je moet gebruiken, maar geeft
+suggesties omtrent de verschillende opties en legt waar mogelijk uit wat de verschillen zijn
+in aanpak.
 
-This is a living document and will continue to be updated with more helpful information
-and examples as they become available.
+Dit is een "dynamisch" document en zal regelmatig worden geupdate met handige informatie en
+voorbeelden.
 
 ## Vertalingen
 
@@ -39,14 +39,14 @@ _PHP: The Right Way_ is (of zal binnenkort) worden vertaald in de volgende talen
 
 ## Hoe kan ik bijdragen?
 
-Help make this website the best resource for new PHP programmers! [Contribute on GitHub][1]
+Help ons om deze website tot de best bron te maken voor nieuwe PHP programmeurs! [Bijdragen op GitHub][1]
 
-## Spread the Word!
+## Zeg het voort!
 
-_PHP: The Right Way_ has web banner images you can use on your website. Show your support, and let new PHP developers
-know where to find good information!
+_PHP: The Right Way_ stelt banners beschikbaar die je kunt gebruiken op je website. Toon je steun aan het project en laat
+nieuwe PHP programmeurs weten waar ze de juiste informatie kunnen vinden!
 
-[See Banner Images][2]
+[Bekijk banners][2]
 
 [1]: https://github.com/codeguy/php-the-right-way/tree/gh-pages
 [2]: /banners.html
