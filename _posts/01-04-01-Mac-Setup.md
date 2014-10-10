@@ -21,7 +21,7 @@ Op dit moment kun je `php53`, `php54`, `php55` of `php56` installeren middels he
 
 ### Installeer PHP via phpbrew
 
-Middels [phpbrew] kun je verschillende PHP versies installeren en beheren. Dit kan erg handig zijn indien je project verschillende versies van PHP vereist en je geen virtuele omgevingen wilt gebruiken.
+Middels [phpbrew] kun je verschillende PHP versies beheren en installeren. Dit kan erg handig zijn indien je project verschillende versies van PHP vereist en je geen virtuele omgevingen wilt gebruiken.
 
 ### Compileer de broncode
 
