@@ -81,6 +81,6 @@ Mijn naam is [Josh Lockhart](http://twitter.com/codeguy). Ik ben de auteur van h
 
 * [Jack Kwakman] (http://nl.linkedin.com/in/jackkwakman)
 
-## License
+## Licentie
 
 [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/)
