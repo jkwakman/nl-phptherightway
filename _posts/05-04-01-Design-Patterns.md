@@ -3,15 +3,15 @@ isChild: true
 anchor: design_patterns
 ---
 
-## Design Patterns {#design_patterns_title}
+## Ontwerppatronen {#design_patterns_title}
 
-When you are building your application it is helpful to use common patterns in your code and common patterns for the
-overall structure of your project. Using common patterns is helpful because it makes it much easier to manage your code
-and lets other developers quickly understand how everything fits together.
+Bij het ontwerpen van je applicatie is het raadzaam om een gemeenschappelijk patroon te gebruiken in je code en structuur 
+van je project. Het gebruik van een gemeenschappelijk patroon is raadzaam om het eenvoudiger te maken om je code te beheren
+en laat andere developers sneller begrijpen hoe je project in elkaar steekt.
 
-If you use a framework then most of the higher level code and project structure will be based on that framework, so a
-lot of the pattern decisions are made for you. But it is still up to you to pick out the best patterns to follow in the
-code you build on top of the framework. If, on the other hand, you are not using a framework to build your application
-then you have to find the patterns that best suit the type and size of application that you're building.
+Indien je gebruik maakt van een framework zijn de "higher level code" en de project structuur gebaseerd op dat framework zodat
+veel patroon beslissingen al voor je zijn gemaakt. Maar het is nog steeds aan jou om de beste partronen te kiezen en deze te volgen
+in de code die je bovenop het framework bouwt. Indien je echter geen gebruik maakt van een framework dan zul je patronen
+moeten zoeken die het meest geschikt voor de applicatie die je aan het bouwen bent.
 
-* Continue reading on [Design Patterns](/pages/Design-Patterns.html)
+* Lees meer op de pagina [Ontwerppatronen](/pages/Design-Patterns.html)

@@ -1,13 +1,13 @@
 ---
-title: Working with UTF-8
+title: Werken met UTF-8
 isChild: true
 anchor: php_and_utf8
 ---
 
-## Working with UTF-8 {#php_and_utf8_title}
+## Werken met UTF-8 {#php_and_utf8_title}
 
-_This section was originally written by [Alex Cabal](https://alexcabal.com/) over at 
-[PHP Best Practices](https://phpbestpractices.org/#utf-8) and has been used as the basis for our own UTF-8 advice_.
+_Deze sectie is oorspronkelijk geschreven door [Alex Cabal](https://alexcabal.com/) op de website
+[PHP Best Practices](https://phpbestpractices.org/#utf-8) en vormt de basis voor ons eigen UTF-8 advies_.
 
 ### There's no one-liner. Be careful, detailed, and consistent.
 
