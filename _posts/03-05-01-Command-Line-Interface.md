@@ -9,7 +9,7 @@ PHP is gemaakt om webapplicaties mee te schrijven maar is ook handig bij het sch
 
 CLI PHP programma's zijn erg krachtig omdat je de code van de applicatie direct kan aanroepen zonder de noodzaak om een beveiligde webinterface te schrijven. Plaats echter nooit je CLI scripts in je publieke web root!
 
-Probleer zelf maar eens om PHP uit te voeren vanaf de command-line:
+Probeer zelf maar eens om PHP uit te voeren vanaf de command-line:
 
 {% highlight bash %}
 > php -i

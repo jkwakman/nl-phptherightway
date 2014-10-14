@@ -19,7 +19,7 @@ Hiermee download je het bestand `composer.phar`. Je kunt dit bestand uitvoeren m
 
 #### Installeren onder Windows
 
-De meest eenvoudige manier voor Windows gebruikers om Composer te installeren is gebruik te maken van de [ComposerSetup][6] installer. Middels deze installer wordt Composer voor alle gebruikers geinstalleerd en voegt composer toe aan je `$PATH` variabele zodat je `composer` vanuit iedere map kan aanroepen.
+De meest eenvoudige manier voor Windows gebruikers om Composer te installeren is gebruik te maken van de [ComposerSetup][6] installer. Middels deze installer wordt Composer voor alle gebruikers geïnstalleerd en voegt composer toe aan je `$PATH` variabele zodat je `composer` vanuit iedere map kan aanroepen.
 
 ### Hoe kan ik Composer handmatig installeren?
 
@@ -42,7 +42,7 @@ Indien je in de documentatie leest dat je Composer dient uit te voeren middels h
 
     composer install
     
-Deze sectie gaat er vanuit dat composer globaal is geinstalleerd.
+Deze sectie gaat er vanuit dat composer globaal is geïnstalleerd.
 
 ### Hoe definieer en installeer je dependencies
 
@@ -50,7 +50,7 @@ Composer houdt je project zijn afhankelijkheden bij in het bestand `composer.jso
 
 	composer require twig/twig:~1.8
 
-Als alternatief kun je het `composer init` commando gebruiken om een volledig `composer.json` bestand voor je project aan te maken. Zodra er een `composer.json` bestand is aangemaakt kun je met Composer alle depencies naar de `vendors/` map downloaden en vervolgens installeren. Dit geldt ook voor andere projecten die je hebt gedownload en al voorzien zijn van een `composer.json` bestand:
+Als alternatief kun je het `composer init` commando gebruiken om een volledig `composer.json` bestand voor je project aan te maken. Zodra er een `composer.json` bestand is aangemaakt kun je met Composer alle dependencies naar de `vendors/` map downloaden en vervolgens installeren. Dit geldt ook voor andere projecten die je hebt gedownload en al voorzien zijn van een `composer.json` bestand:
 
     composer install
 
@@ -75,7 +75,7 @@ Om updates to ontvangen omtrent nieuwe versie releases kun je je inschrijven voo
 
 ### Dependencies controleren op kwetsbaarheden
 
-De [Security Advisories Checker][4] is een webservice en command-line tool die je `composer.lock` bestand analyseert en je waarschuwt indien je je depencies moet updaten.
+De [Security Advisories Checker][4] is een webservice en command-line tool die je `composer.lock` bestand analyseert en je waarschuwt indien je je dependencies moet updaten.
 
 * [Leer meer over Composer][5]
 
