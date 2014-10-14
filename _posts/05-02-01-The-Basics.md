@@ -3,11 +3,11 @@ isChild: true
 anchor: the_basics
 ---
 
-## The Basics {#the_basics_title}
+## De basis {#the_basics_title}
 
-PHP is a vast language that allows coders of all levels the ability to produce code not only quickly, but efficiently. 
-However while advancing through the language, we often forget the basics that we first learnt (or overlooked) in favor 
-of short cuts and/or bad habits. To help combat this common issue, this section is aimed at reminding coders of the 
-basic coding practices within PHP.
+PHP is een uitgebreide taal die coders van alle niveau's in staat stelt om op snelle en efficiënte wijze code te produceren.
+Terwijl men steeds meer ervaring opdoet met de taal worden vaak de basisbeginselen van de taal over het hoofd gezien ten faveure
+van short cuts en/of slechte gewoonte. Om dit proces tegen te gaan hebben wij een sectie gemaakt met als doel om coders
+op de hoogte te brengen van de basisbeginselen van PHP.
 
-* Continue reading on [The Basics](/pages/The-Basics.html)
+* Lees meer over [de basis](/pages/The-Basics.html)
